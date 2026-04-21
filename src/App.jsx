@@ -4,6 +4,7 @@ export default function App() {
       <h1>환경변수 보이기</h1>
       <p>API_URL: {import.meta.env.VITE_API_URL}</p>
       <p>1급기밀key: {import.meta.env.VITE_SECRET_KEY}</p>
+      <h2>업데이트된 내용!!!</h2>
     </div>
   );
 }
